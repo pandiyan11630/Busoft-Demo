@@ -1,0 +1,13 @@
+In SQL :
+1. Bulk Operations
+
+In Angular :
+1. Dependency Injection and its uses
+2. JWT
+3. Test Automation Tools (Testing Tools - Mocha, Chai, Jasmine)
+
+In C# :
+1. NUnit, Design Patterns : NUnit, Singleton, MVC, Layered Architecture
+2. API : Richardson maturity model, Documentation using swagger(Check on Acer for backup)
+3. Logging : LOG4NET 
+4. Dotnet Core Security : Oauth, Implementating authentication using identity framework , JWT 
